@@ -7,4 +7,4 @@ app.get('/', function(req, res) {
     res.send("Testing Azure devops")
 })
 
-app.listen(8000)
+app.listen(80)
